@@ -1,0 +1,11 @@
+{
+    "name": "projetopadrao/projetopadrao",
+    "description": "API Padrao",
+    "require":{
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
